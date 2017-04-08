@@ -1,3 +1,7 @@
 some content
+<<<<<<< HEAD
 dddasfasdf
 ddaasdfasdfa
+=======
+dddddsas
+>>>>>>> test
